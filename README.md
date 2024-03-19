@@ -1,2 +1,1 @@
-# Hi there!👋
-## I am Dolma Lama
+# Hi there!👋 I am Dolma Lama
